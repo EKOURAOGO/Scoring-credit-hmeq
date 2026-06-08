@@ -68,5 +68,5 @@ jupyter notebook CodePython.ipynb
 
 ## Auteurs
 
-**Emmanuel KOURAOGO**, Arouna Romeo Koné — M2 IMSD
+**Emmanuel KOURAOGO**
 [GitHub](https://github.com/EKOURAOGO) · [Email](mailto:ekouraogo73@gmail.com)
