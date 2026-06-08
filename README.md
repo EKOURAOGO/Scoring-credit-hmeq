@@ -34,10 +34,10 @@ Approche multi-langages : SAS, R et Python.
 
 ## Installation Python
 
-\\\ash
+```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn jupyter
 jupyter notebook CodePython.ipynb
-\\\
+```
 
 ## Auteurs
-Emmanuel KOURAOGO, Arouna Romeo Koné — M2 IMSD
+Emmanuel KOURAOGO
